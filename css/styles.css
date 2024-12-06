@@ -5,7 +5,7 @@
 body {
   background: url("../assets/calendar-bg.jpg") no-repeat top center #8ac1d6;
   background-size: cover;
-  font-family: "Mountains of Christmas", cursive;
+  font-family: "Mountains of Christmas";
   display: flex;
   flex-direction: column;
 }

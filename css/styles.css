@@ -64,7 +64,7 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
   border-radius: 8px;
-  font-style: normal!important;
+  font-family: sans-serif;
 }
 
 /* Close button */

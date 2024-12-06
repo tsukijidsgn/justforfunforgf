@@ -5,7 +5,7 @@
 body {
   background: url("../assets/calendar-bg.jpg") no-repeat top center #8ac1d6;
   background-size: cover;
-  font-family: "Mountains of Christmas";
+  font-family: sans-serif;
   display: flex;
   flex-direction: column;
 }
@@ -36,7 +36,6 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
   border-radius: 8px;
-  font-family: sans-serif!important;
 }
 
 /* Modal background */
@@ -65,7 +64,6 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
   border-radius: 8px;
-  font-family: sans-serif!important;
 }
 
 /* Close button */

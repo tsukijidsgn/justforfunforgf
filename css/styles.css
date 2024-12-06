@@ -36,6 +36,7 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
   border-radius: 8px;
+  font-family: sans-serif!important;
 }
 
 /* Modal background */
@@ -64,7 +65,7 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
   border-radius: 8px;
-  font-family: sans-serif;
+  font-family: sans-serif!important;
 }
 
 /* Close button */
